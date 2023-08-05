@@ -103,7 +103,7 @@ $(document).ready(function() {
             generateWeatherData(lastCity);
         }
         else {
-            generateWeatherData("Seattle");
+            generateWeatherData("Pune");
         }
     }
 
